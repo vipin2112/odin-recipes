@@ -1,0 +1,12 @@
+body {
+    font-family: 'Verdana', 'Geneva', 'Tahoma', sans-serif;
+    background-color: #f5e5de;
+    color: #444346;
+}
+
+main {}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
